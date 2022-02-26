@@ -1,0 +1,26 @@
+@media only screen and (min-width: 46.25em) and (max-width: 63.9375em){
+    #home-slider .info-trailer{
+        top: 28%;
+    }
+    #home-slider .info-trailer .trailer-name{
+        font-size: 30px;
+    }
+    #home-slider .info-trailer .trailer-description{
+        font-size: 13px;
+        width: 350px;
+    }
+    #movies-list-slider{
+        top: 15%;
+    }
+}
+
+@media only screen and (max-width: 46.25em){
+    #home-slider .info-trailer{
+        top: 20%;
+    }
+    #home-slider .info-trailer .trailer-name{
+        font-size: 30px;
+    }
+    #home-slider .info-trailer .trailer-description{
+    }
+}
